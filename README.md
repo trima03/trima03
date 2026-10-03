@@ -9,4 +9,4 @@
 * **Библиотеки и БД:** aiogram, aiosqlite, SQLite, Pandas, Scikit-learn
 * **Инструменты:** Git, PyCharm
 
-📫 **Связь со мной:** [Твой Telegram] (ссылка)
+📫 **Связь со мной:** [t.me/ttddkkk] 
